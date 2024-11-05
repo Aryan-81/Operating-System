@@ -1,4 +1,4 @@
-# OS Lab Assessment
+# OS Lab Assignment
 
 ## Overview
 This project is a simple, minimalistic operating system built from scratch. It includes a basic bootloader, a kernel written in C, and essential drivers for basic functionality. This OS serves as an educational project to understand the inner workings of how operating systems interact with hardware and manage low-level processes.
